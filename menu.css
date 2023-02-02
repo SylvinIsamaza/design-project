@@ -1,0 +1,37 @@
+#menu{
+    background-color: white;
+    width:40px;
+    height:40px;
+    border:3px black solid;
+    border-radius: 50%;
+    margin-top: -10px;
+}
+#menu2,#menu3{
+    width:23px;
+    height:5px;
+    background-color:black;
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 2px;
+}
+#menu1{
+    margin-top: 4px;
+    background-color:black;
+    width:23px;
+    height:5px;
+    margin: auto;
+    border-radius: 2px;
+    
+
+}
+#menu0{
+    margin: auto;
+    height: 6px;
+}
+
+
+
+#men{
+margin-left: -10%;
+margin-right: 8%;
+}

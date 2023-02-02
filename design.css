@@ -1,0 +1,66 @@
+ul{
+display: flex;
+list-style: none;
+background-color: #a8bdd3;
+height:3.5em;
+overflow: hidden;
+margin-top: -0.5em;
+width:100%;
+margin-left: -0.5em;
+position: fixed;
+padding:0px 10vw ;
+
+}
+ul li{
+    margin-left: 8vw;
+    padding-top: 0.8em;
+    padding-left: 2%;
+    
+    
+}
+#search{
+    border-radius: 6px;
+    margin-top: 10px;
+    width:15em;
+    
+}
+.logo{
+    margin-right: 0%;
+    
+}
+#image{
+    width:100%;
+    height:30%;
+    
+}
+img{
+    width:80px;
+    height:40px;
+    margin-top: -5px;
+}
+#notification{
+    margin-top: 9px;
+    width:30px;
+    height: 20px;
+
+}
+#userprofile{
+    margin-top: 9px;
+    width:30px;
+    height: 23px;
+}
+#message{
+    margin-top: 9px;
+    width:30px;
+    height: 23px;
+}
+men{
+    float: left;
+}
+#tab-logo{
+    margin-right: -10px;
+}
+button{
+    background-color: #a8bdd3;
+    border:0px;  
+}
